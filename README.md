@@ -1,4 +1,4 @@
-Este proyecto es la seguimiento del diseño de una cervecería durante mi pregrado. Uno de los procesos críticos es el control de temperatura del macerado. Puede lograse con un regulador de corriente en vez de un botón :)
+Este proyecto es el seguimiento del diseño de una cervecería durante mi pregrado. Uno de los procesos críticos es el control de temperatura del macerado. Puede lograse con un regulador de corriente en vez de un botón :)
 
 Diagrama de conexión:
 

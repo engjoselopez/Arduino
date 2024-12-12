@@ -1,3 +1,5 @@
+Este proyecto es la seguimiento del diseño de una cervecería durante mi pregrado. Uno de los procesos críticos es el control de temperatura del macerado. Puede lograse con un regulador de corriente en vez de un botón :)
+
 Diagrama de conexión:
 
 Conecta el pin digital 7 del Arduino al pin IN del módulo relé.
